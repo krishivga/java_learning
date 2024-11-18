@@ -1,4 +1,6 @@
-package learnjavaonline;
+// https://www.learnjavaonline.org/en/Conditionals
+
+package learnjavaonline.Practice;
 
 public class Conditionals {
     public static void main(String[] args) {
