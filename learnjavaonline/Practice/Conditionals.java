@@ -1,5 +1,4 @@
 // https://www.learnjavaonline.org/en/Conditionals
-
 package learnjavaonline.Practice;
 
 public class Conditionals {
